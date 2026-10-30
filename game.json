@@ -1,0 +1,20 @@
+{
+  "name": "Lucky Lanterns (demo)",
+  "rows": 3,
+  "lines": [[1, 1, 1], [0, 0, 0], [2, 2, 2], [0, 1, 2], [2, 1, 0]],
+  "wild": "WILD",
+  "scatter": "LANTERN",
+  "paytable": {"WILD": 250, "DRAGON": 120, "COIN": 45, "FAN": 20, "PEACH": 10, "PLUM": 5},
+  "free_games": {"scatters_needed": 3, "spins": 8, "multiplier": 2},
+  "reels": [
+    ["PLUM", "PEACH", "FAN", "PLUM", "COIN", "PLUM", "LANTERN", "PEACH", "PLUM", "FAN",
+     "PLUM", "DRAGON", "PEACH", "PLUM", "WILD", "PLUM", "PEACH", "FAN", "LANTERN", "PLUM",
+     "COIN", "PEACH", "PLUM", "FAN", "PLUM", "DRAGON", "PEACH", "PLUM", "COIN", "PEACH"],
+    ["PEACH", "PLUM", "FAN", "PEACH", "LANTERN", "PLUM", "COIN", "PEACH", "PLUM", "WILD",
+     "PLUM", "FAN", "PEACH", "PLUM", "DRAGON", "PLUM", "PEACH", "LANTERN", "PLUM", "FAN",
+     "PEACH", "COIN", "PLUM", "PEACH", "FAN", "PLUM", "COIN", "PEACH", "PLUM", "DRAGON"],
+    ["PLUM", "FAN", "PEACH", "PLUM", "COIN", "PEACH", "LANTERN", "PLUM", "FAN", "PEACH",
+     "PLUM", "WILD", "PEACH", "PLUM", "COIN", "FAN", "PLUM", "PEACH", "DRAGON", "PLUM",
+     "LANTERN", "PEACH", "PLUM", "FAN", "COIN", "PLUM", "PEACH", "PLUM", "FAN", "PEACH"]
+  ]
+}
